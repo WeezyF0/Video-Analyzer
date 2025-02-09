@@ -3,7 +3,7 @@ This model uses a pipeline of LLaVa (Vision Language Model), T5 (for Summarizati
 
 Due to the nature of video processing being resource intensive and colab free tier having memory constraints on t4, it can be improved by quite a bit on availability of better hardware. 
 
-moondream + openCV : very very slow.
+moondream + OpenCV : very very slow.
 
 QwenVL + YOLO : Out of Memory error on colab. (Ideally the best option for the task on hardware availability).
 
