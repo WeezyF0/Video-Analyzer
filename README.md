@@ -1,5 +1,5 @@
 # Video-Analysis
-This model uses a pipeline of LLaVa (Vision Language Model), T5 (for Summarization) and OpenCV (for keyframe extraction). It analyzes and generates summary of small videos and clips. 
+This model uses a pipeline of LLaVa (Vision Language Model), T5 (for Summarization) and OpenCV (for keyframe extraction). It analyzes and can answer user prompts and generate concise summary of small videos and clips. 
 
 Due to the nature of video processing being resource intensive and colab free tier having memory constraints on t4, it can be improved by quite a bit on availability of better hardware. 
 
