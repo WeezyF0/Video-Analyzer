@@ -11,7 +11,7 @@ Blip + OpenCV: Fast but extremely brief and generic (1 liners)
 
 
 
-Sample Output for videos:
+Produced Output for sample videos:
 #1
 ![image](https://github.com/user-attachments/assets/2df0b481-832a-4d7a-906a-ee95917f74b0)
 the video captures a snowy street scene with a car driving down the road . the street is lined with houses, and there are multiple cars parked or driving along the road. the overall atmosphere of the scene is calm and quiet, with no visible signs of activity .
